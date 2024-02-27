@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wlP4W39RctfkqSncfBLRXJ2GlrnkCBXgwELDirYNb7U=",
+  "Source": "EmailParser",
+  "BasePath": "_content/EmailParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
